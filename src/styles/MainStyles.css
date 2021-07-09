@@ -1,0 +1,47 @@
+* { margin: 0; padding: 0; }
+
+
+.mainHeader {
+    text-align: center;
+}
+
+.imgmain{
+  display:block;
+  margin:auto;    
+  width: 25%;
+}
+
+#content{
+    display: flex;
+    height: 10em;
+    margin-top: 2%;
+}
+
+.listObj{
+  width: 90%;
+}
+
+.wrapper{
+  margin: 10px auto;
+  width: 90%;
+}
+
+header {
+  height: 5em;
+  width: 100%;
+}
+
+aside {
+  width: 30%;
+}
+
+section {
+  width: 70%;
+}
+
+footer {
+  text-align: right;
+  height: 5em;
+  width: 100%;
+}
+
